@@ -5,6 +5,7 @@ This repo contains my contributions with open source project, team project and m
 Title | Notebook / Source code
 --- | --- 
 Fraud claims identifications by hospital to insurance company | [Deployment Link](https://hos-inc-rc-api.herokuapp.com/) Code: TBD
+Drug analysis - Effectiveness with side-effects [Text Analytics Project] | [Deployment Link](https://drug-analysis-api-v2.herokuapp.com/) Code: TBD
 
 ## Applied Data Analysis and EDA
 Title | Notebook / Source code
