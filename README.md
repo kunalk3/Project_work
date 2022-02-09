@@ -42,7 +42,7 @@ __This repository is a part of my contributions with open source project, team p
   <br>*For cloud cost optimizations, few deployment links are temporary down with priorities.
   <br>*Accessing cloud link, it might few more seconds as per the latency.</i>
 </div>  
-  
+ 
 🔎 No | 💡 Project Title | 📝 Notebook/ Source Code | ⛅ Deplyment status/ Link
 --- | --- | --- | ---
 1 | Fraud claims identifications by hospital to insurance company | Source Code: TBD | Status: Up _[Link](https://hos-inc-rc-api.herokuapp.com/)_
