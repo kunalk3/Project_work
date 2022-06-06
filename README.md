@@ -50,7 +50,7 @@ __This repository is a part of my contributions with open source project, team p
 3 | N2O predictions application with Explainable AI | Source Code: _[Code](https://github.com/kunalk3/P1_tmlc_n2o_streamlit_v2)_ | Status: Up _[Link](https://share.streamlit.io/kunalk3/p1_tmlc_n2o_streamlit_v2/main/app.py)_
 4 | Text analytics - Drug effectiveness with side-effects | Source Code: TBD | Status: Up _[Link](https://drug-analysis-api-v2.herokuapp.com/)_
 5 | Supermarket products predictive analytics | Source Code: _[Code](https://github.com/kunalk3/i_predction)_ | Status: Up _[Link](https://i-predict-v1.herokuapp.com/)_
-6 | NSE market live-data fetching by automated excel | Source Code: _[Code](https://github.com/kunalk3/NSE_Livedata_from_excel_extraction)_ |  Status: Down _[Link](https://nse_data_fetch_v2.herokuapp.com/)_ 
+6 | NSE market live-data fetching by automated excel | Source Code: _[Code](https://github.com/kunalk3/NSE_Livedata_from_excel_extraction)_ |  Status: Down  _[Link](https://nse_data_fetch_v2.herokuapp.com/)_ 
 7 | Object detection using transfer learning - SSD Mobilenet | Source Code: _[Code](https://github.com/kunalk3/Objection_detection_mobilnet)_ | Status: Up _[Link](https://object-detection-app-k1.herokuapp.com/)_
 8 | Web scraping with selenium - Naukri website automation | Source Code: _[Notebook](https://github.com/kunalk3/Data_scraping_and_text_analysis/tree/main/Naukri_data_scraping)_ | Status: N.A
 9 | --- | --- | ---
