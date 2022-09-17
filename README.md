@@ -38,9 +38,9 @@ __This repository is a part of my contributions with open source project, team p
 ### 📁 Project contributions
   
 <div align="right">
-  <i>*Few of project contains are not available as per peoject data restrictions with privacy concerns. 
-  <br>*For cloud cost optimizations, few deployment links are temporary down with priorities.
-  <br>*Accessing cloud link, it might few more seconds as per the latency.</i>
+  <i>*Few of project contains are not available/ uploaded as per project restrictions, data securities and privacy concerns. 
+  <br>*For cloud cost optimizations, few project deployment links are temporary down with priorities.
+  <br>*Accessing cloud link, it might few more seconds as per the latencies.</i>
 </div>  
  
 🔎 No | 💡 Project Title | 📝 Notebook/ Source Code | ⛅ Deplyment status/ Link
