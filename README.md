@@ -53,7 +53,8 @@ __This repository is a part of my contributions with open source project, team p
 6 | NSE market live-data fetching by automated excel | Source Code: _[Code](https://github.com/kunalk3/NSE_Livedata_from_excel_extraction)_ |  Status: Down  _[Link](https://nse_data_fetch_v2.herokuapp.com/)_ 
 7 | Object detection using transfer learning - SSD Mobilenet | Source Code: _[Code](https://github.com/kunalk3/Objection_detection_mobilnet)_ | Status: Up _[Link](https://object-detection-app-k1.herokuapp.com/)_
 8 | Web scraping with selenium - Naukri website scrapper | Source Code: _[Notebook](https://github.com/kunalk3/Data_scraping_and_text_analysis/tree/main/Naukri_data_scraping)_ | Status: N.A
-9 | --- | --- | ---
+9 | Customer behavior analysis - Churn model | Source Code: _[Code](https://github.com/kunalk3/Customer_churn_prediction_AutoML)_ | Status: Down _[Link](https://www.heroku.com/python)_
+10 | --- | --- | ---
 
 ---
   
